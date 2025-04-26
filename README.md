@@ -10,7 +10,7 @@ Le modèle Simulink simule la logique de commande du moteur d’essuie-glace sel
 
 -   **Off** : moteur arrêté
     
--   **Auto** : ajustement automatique selon un capteur de pluie
+-   **Auto** : la vitesse du moteur est pilotée directement par la valeur externe de WiperSpdRequest
     
 -   **Low Speed** : vitesse lente
     
