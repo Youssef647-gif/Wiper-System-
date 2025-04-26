@@ -62,4 +62,4 @@ La validation physique est réalisée en connectant un **moteur DC** via un **dr
     
 -   Simulink Support Package for Arduino Hardware
     
-![Wiper System Model](https://github.com/Youssef647-gif/Wiper-System-/blob/main/Wiper_System.png?raw=true)
+
